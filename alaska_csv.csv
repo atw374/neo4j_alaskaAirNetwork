@@ -1,0 +1,1527 @@
+﻿city,cityId,city2,city2Id,routeId,distance
+Adak,1,Anchorage,3,13,1193.058141
+Adak,1,Seattle,108,1108,2385.719385
+Albuquerque,2,Anchorage,3,23,2606.825481
+Albuquerque,2,Portland,89,289,1105.959174
+Albuquerque,2,San Francisco,102,2102,896.0111276
+Albuquerque,2,Santa Ana,105,2105,648.6212132
+Albuquerque,2,Seattle,108,2108,1182.492306
+Anchorage,3,Adak,1,31,1193.058141
+Anchorage,3,Albuquerque,2,32,2606.825481
+Anchorage,3,Atlanta,4,34,3401.60641
+Anchorage,3,Austin,5,35,3164.211211
+Anchorage,3,Baltimore,6,36,3353.340259
+Anchorage,3,Barrow,7,37,720.8888325
+Anchorage,3,Bethel,10,310,397.8279034
+Anchorage,3,Boise,12,312,1832.706653
+Anchorage,3,Boston,13,313,3367.892397
+Anchorage,3,Bozeman,14,314,1882.590111
+Anchorage,3,Chicago,19,319,2850.453871
+Anchorage,3,Columbus,22,322,3105.570033
+Anchorage,3,Cordova,23,323,146.5599738
+Anchorage,3,Dallas,24,324,3049.682792
+Anchorage,3,Denver,25,325,4311.270048
+Anchorage,3,Detroit,26,326,2977.85613
+Anchorage,3,Dillingham,27,327,330.6654916
+Anchorage,3,Dutch Harbor,28,328,794.235456
+Anchorage,3,Everett,32,332,1419.12776
+Anchorage,3,Fairbanks,33,333,259.6248622
+Anchorage,3,Fort Lauderdale,34,334,3980.518429
+Anchorage,3,Honolulu,42,342,2784.269484
+Anchorage,3,Houston,43,343,3270.416289
+Anchorage,3,Indianapolis,45,345,3011.040838
+Anchorage,3,Juneau,48,348,566.4008573
+Anchorage,3,Kansas City,50,350,2770.340542
+Anchorage,3,Ketchikan,52,352,773.3091719
+Anchorage,3,King Salmon,53,353,291.8276252
+Anchorage,3,Kodiak,54,354,252.2312842
+Anchorage,3,Kona,55,355,2887.302565
+Anchorage,3,Kotzebue,56,356,546.8497877
+Anchorage,3,Las Vegas,58,358,2294.858436
+Anchorage,3,Los Angeles,62,362,2339.778213
+Anchorage,3,Maui,63,363,2803.950482
+Anchorage,3,Minneapolis,68,368,2501.56696
+Anchorage,3,Nashville,72,372,3187.829006
+Anchorage,3,New Orleans,74,374,3429.689764
+Anchorage,3,New York,75,375,3362.263134
+Anchorage,3,Newark,76,376,3354.325348
+Anchorage,3,Nome,77,377,537.0208895
+Anchorage,3,Oakland,78,378,2007.07324
+Anchorage,3,Oklahoma City,79,379,2871.994087
+Anchorage,3,Omaha,80,380,2606.547947
+Anchorage,3,Ontario,81,381,2356.457223
+Anchorage,3,Orlando,82,382,3799.849665
+Anchorage,3,Palm Springs,83,383,2398.897628
+Anchorage,3,Philadelphia,86,386,3364.753292
+Anchorage,3,Phoenix,87,387,2544.53958
+Anchorage,3,Pittsburgh,88,388,3179.190647
+Anchorage,3,Portland,89,389,1539.752894
+Anchorage,3,Prudhoe Bay,90,390,628.9567848
+Anchorage,3,Redding,94,394,1835.524174
+Anchorage,3,Reno,96,396,1966.22678
+Anchorage,3,Sacramento,97,397,1979.215148
+Anchorage,3,Saint Louis,98,398,2925.995692
+Anchorage,3,Salt Lake City,99,399,2123.851425
+Anchorage,3,San Antonio,100,3100,3191.662237
+Anchorage,3,San Diego,101,3101,2450.372936
+Anchorage,3,San Francisco,102,3102,2004.282804
+Anchorage,3,San Jose,103,3103,2046.991648
+Anchorage,3,San Luis Obispo,104,3104,2202.556919
+Anchorage,3,Santa Ana,105,3105,2368.375506
+Anchorage,3,Santa Rosa,107,3107,1955.910063
+Anchorage,3,Seattle,108,3108,1434.359784
+Anchorage,3,Sitka,109,3109,588.0748479
+Anchorage,3,Spokane,110,3110,1579.799755
+Anchorage,3,Tampa,113,3113,3798.244957
+Anchorage,3,Washington D.C.,121,3121,3344.107935
+Atlanta,4,Anchorage,3,43,3401.60641
+Atlanta,4,Bellingham,9,49,2202.264216
+Atlanta,4,Charleston,18,418,266.1721451
+Atlanta,4,Fairbanks,33,433,3356.538197
+Atlanta,4,Fresno,36,436,1996.614088
+Atlanta,4,Kona,55,455,4441.448925
+Atlanta,4,Los Angeles,62,462,1932.46607
+Atlanta,4,Maui,63,463,4425.42846
+Atlanta,4,Portland,89,489,2167.830955
+Atlanta,4,San Diego,101,4101,1887.348324
+Atlanta,4,Seattle,108,4108,2177.916864
+Atlanta,4,Vancouver,118,4118,2238.583277
+Austin,5,Anchorage,3,53,3164.211211
+Austin,5,Boise,12,512,1368.9425
+Austin,5,Los Angeles,62,562,1224.942139
+Austin,5,Palm Springs,83,583,1125.538377
+Austin,5,Portland,89,589,1706.183176
+Austin,5,Redding,94,594,1550.675269
+Austin,5,San Diego,101,5101,1154.955697
+Austin,5,San Francisco,102,5102,1499.220504
+Austin,5,San Jose,103,5103,1463.07433
+Austin,5,Seattle,108,5108,1768.207459
+Baltimore,6,Anchorage,3,63,3353.340259
+Baltimore,6,Eugene,31,631,2388.890183
+Baltimore,6,Honolulu,42,642,4845.721919
+Baltimore,6,Los Angeles,62,662,2314.646512
+Baltimore,6,Pasco,84,684,2180.984057
+Baltimore,6,Pittsburgh,88,688,196.450075
+Baltimore,6,Portland,89,689,2355.519789
+Baltimore,6,San Francisco,102,6102,2451.032405
+Baltimore,6,Seattle,108,6108,2328.251737
+Barrow,7,Anchorage,3,73,720.8888325
+Barrow,7,Bozeman,14,714,2313.622661
+Barrow,7,Fairbanks,33,733,501.9362807
+Barrow,7,Ontario,81,781,2941.775744
+Barrow,7,Prudhoe Bay,90,790,195.1107167
+Barrow,7,Redding,94,794,2432.585784
+Barrow,7,Reno,96,796,2544.455036
+Barrow,7,Sacramento,97,797,2578.65378
+Barrow,7,Santa Rosa,107,7107,2567.122202
+Belize City,8,Los Angeles,62,862,2178.976657
+Belize City,8,Seattle,108,8108,2835.630039
+Bellingham,9,Anchorage,3,93,1369.147974
+Bellingham,9,Austin,5,95,1818.774776
+Bellingham,9,Bozeman,14,914,576.3609709
+Bellingham,9,Columbus,22,922,2017.17475
+Bellingham,9,Denver,25,925,5671.601354
+Bellingham,9,Detroit,26,926,1935.975646
+Bellingham,9,Honolulu,42,942,2714.428377
+Bellingham,9,Kona,55,955,2736.186983
+Bellingham,9,Las Vegas,58,958,945.4249094
+Bellingham,9,Lihue,60,960,2737.082577
+Bellingham,9,Maui,63,963,2682.742643
+Bellingham,9,Oakland,78,978,756.9708739
+Bellingham,9,Pasco,84,984,234.4059802
+Bellingham,9,Pittsburgh,88,988,2137.087879
+Bellingham,9,Portland,89,989,223.8800092
+Bellingham,9,Reno,96,996,651.0686559
+Bellingham,9,Sacramento,97,997,705.0465101
+Bellingham,9,Saint Louis,98,998,1728.646623
+Bellingham,9,San Diego,101,9101,1141.918025
+Bellingham,9,San Jose,103,9103,791.7259255
+Bellingham,9,Santa Ana,105,9105,1063.974252
+Bellingham,9,Seattle,108,9108,79.62116545
+Bethel,10,Anchorage,3,103,397.8279034
+Bethel,10,Bozeman,14,1014,2267.723704
+Bethel,10,Ontario,81,1081,2684.017635
+Bethel,10,Redding,94,1094,2164.420852
+Bethel,10,Reno,96,1096,2303.214194
+Bethel,10,Sacramento,97,1097,2304.140861
+Bethel,10,Santa Rosa,107,10107,2273.78988
+Bethel,10,Seattle,108,10108,1796.6073
+Billings,11,Portland,89,1189,681.7932553
+Billings,11,Seattle,108,11108,664.7652254
+Boise,12,Anchorage,3,123,1832.706653
+Boise,12,Austin,5,125,1368.9425
+Boise,12,Bozeman,14,1214,292.2303278
+Boise,12,Burbank,15,1215,661.3443114
+Boise,12,Chicago,19,1219,1448.805145
+Boise,12,Columbus,22,1222,1719.085372
+Boise,12,Dallas,24,1224,1288.340691
+Boise,12,Everett,32,1232,415.5165035
+Boise,12,Fresno,36,1236,507.816949
+Boise,12,Honolulu,42,1242,2831.821951
+Boise,12,Idaho Falls,44,1244,210.7277037
+Boise,12,Kona,55,1255,2824.210043
+Boise,12,Las Vegas,58,1258,517.6038826
+Boise,12,Lihue,60,1260,2872.320438
+Boise,12,Los Angeles,62,1262,669.3400374
+Boise,12,Maui,63,1263,2784.635892
+Boise,12,Medford,65,1265,346.2725781
+Boise,12,Orlando,82,1282,2185.251387
+Boise,12,Palm Springs,83,1283,676.5929149
+Boise,12,Phoenix,87,1287,737.2718439
+Boise,12,Pittsburgh,88,1288,1857.867138
+Boise,12,Portland,89,1289,342.573319
+Boise,12,Pullman,92,1292,220.2456078
+Boise,12,Reno,96,1296,337.4287506
+Boise,12,Sacramento,97,1297,442.3680317
+Boise,12,Salt Lake City,99,1299,298.0065529
+Boise,12,San Diego,101,12101,754.6881495
+Boise,12,San Francisco,102,12102,516.7510728
+Boise,12,San Jose,103,12103,526.7756936
+Boise,12,San Luis Obispo,104,12104,622.4587078
+Boise,12,Santa Ana,105,12105,687.8476459
+Boise,12,Seattle,108,12108,403.3381667
+Boise,12,Spokane,110,12110,285.1909327
+Boise,12,Vancouver,118,12118,508.9242761
+Boston,13,Anchorage,3,133,3367.892397
+Boston,13,Fairbanks,33,1333,3245.638488
+Boston,13,Los Angeles,62,1362,2590.957975
+Boston,13,Portland,89,1389,2532.517085
+Boston,13,San Diego,101,13101,2578.910826
+Boston,13,San Francisco,102,13102,2692.675494
+Boston,13,San Luis Obispo,104,13104,2676.373634
+Boston,13,Seattle,108,13108,2485.598951
+Boston,13,Spokane,110,13110,2259.710262
+Bozeman,14,Anchorage,3,143,1882.590111
+Bozeman,14,Barrow,7,147,2313.622661
+Bozeman,14,Bethel,10,1410,2267.723704
+Bozeman,14,Boise,12,1412,292.2303278
+Bozeman,14,Cordova,23,1423,1736.030623
+Bozeman,14,Dillingham,27,1427,2145.386392
+Bozeman,14,Fairbanks,33,1433,1910.673043
+Bozeman,14,Houston,43,1443,1388.220071
+Bozeman,14,Juneau,48,1448,1317.424224
+Bozeman,14,Ketchikan,52,1452,1117.789477
+Bozeman,14,King Salmon,53,1453,2079.026305
+Bozeman,14,Kodiak,54,1454,1918.11206
+Bozeman,14,Kotzebue,56,1456,2352.459222
+Bozeman,14,Los Angeles,62,1462,888.4035618
+Bozeman,14,Nome,77,1477,2405.298013
+Bozeman,14,Petersburg,85,1485,1210.536389
+Bozeman,14,Portland,89,1489,561.3618248
+Bozeman,14,Redding,94,1494,670.0606686
+Bozeman,14,San Diego,101,14101,952.8935044
+Bozeman,14,San Francisco,102,14102,799.5799748
+Bozeman,14,San Luis Obispo,104,14104,877.2942297
+Bozeman,14,Santa Ana,105,14105,900.3796253
+Bozeman,14,Seattle,108,14108,551.1014438
+Bozeman,14,Sitka,109,14109,1299.070936
+Bozeman,14,Wrangell,124,14124,1180.922916
+Bozeman,14,Yakutat,126,14126,1514.553333
+Burbank,15,Boise,12,1512,661.3443114
+Burbank,15,Pasco,84,1584,834.1622447
+Burbank,15,Portland,89,1589,816.0527893
+Burbank,15,San Francisco,102,15102,337.5961039
+Burbank,15,San Jose,103,15103,293.3790093
+Burbank,15,Santa Rosa,107,15107,382.4391643
+Burbank,15,Seattle,108,15108,950.5820147
+Burbank,15,Spokane,110,15110,932.3536741
+Cabo San Lucas,16,Las Vegas,58,1658,969.4381778
+Cancun,17,Kansas City,50,1750,1318.765873
+Cancun,17,San Francisco,102,17102,2408.681288
+Charleston,18,Atlanta,4,184,266.1721451
+Charleston,18,Portland,89,1889,2419.324975
+Charleston,18,Seattle,108,18108,2423.016543
+Chicago,19,Anchorage,3,193,2850.453871
+Chicago,19,Boise,12,1912,1448.805145
+Chicago,19,Fairbanks,33,1933,2789.342783
+Chicago,19,Honolulu,42,1942,4248.175479
+Chicago,19,Los Angeles,62,1962,1741.023495
+Chicago,19,Maui,63,1963,4192.330851
+Chicago,19,Portland,89,1989,1753.719323
+Chicago,19,San Francisco,102,19102,1853.596792
+Chicago,19,San Luis Obispo,104,19104,1828.308136
+Chicago,19,Seattle,108,19108,1732.813893
+Chicago,19,Spokane,110,19110,1504.637954
+Chicago,19,Vancouver,118,19118,1772.209411
+Cincinnati,20,Seattle,108,20108,1966.888407
+Cleveland,21,Seattle,108,21108,2022.244067
+Columbus,22,Anchorage,3,223,3105.570033
+Columbus,22,Bellingham,9,229,2017.17475
+Columbus,22,Boise,12,2212,1719.085372
+Columbus,22,Fairbanks,33,2233,3033.593599
+Columbus,22,Los Angeles,62,2262,1973.558845
+Columbus,22,Medford,65,2265,2061.408653
+Columbus,22,Portland,89,2289,2027.765555
+Columbus,22,Redmond,95,2295,1961.466276
+Columbus,22,San Francisco,102,22102,2108.485751
+Columbus,22,Seattle,108,22108,2008.285937
+Columbus,22,Spokane,110,22110,1780.156233
+Cordova,23,Anchorage,3,233,146.5599738
+Cordova,23,Bozeman,14,2314,1736.030623
+Cordova,23,Ontario,81,2381,2220.360562
+Cordova,23,Redding,94,2394,1700.071704
+Cordova,23,Reno,96,2396,1828.309152
+Cordova,23,Sacramento,97,2397,1844.533211
+Cordova,23,Santa Rosa,107,23107,1823.287243
+Cordova,23,Seattle,108,23108,1291.152226
+Cordova,23,Yakutat,126,23126,222.2007617
+Dallas,24,Anchorage,3,243,3049.682792
+Dallas,24,Boise,12,2412,1288.340691
+Dallas,24,Chicago,19,2419,802.7784627
+Dallas,24,Denver,25,2425,7233.507697
+Dallas,24,Fairbanks,33,2433,3062.603714
+Dallas,24,Honolulu,42,2442,3789.013982
+Dallas,24,Kalispell,49,2449,1400.894972
+Dallas,24,Las Vegas,58,2458,1068.58555
+Dallas,24,Los Angeles,62,2462,1237.066733
+Dallas,24,Maui,63,2463,3719.088178
+Dallas,24,New Orleans,74,2474,441.6232707
+Dallas,24,Portland,89,2489,1630.183603
+Dallas,24,Redding,94,2494,1508.75499
+Dallas,24,San Diego,101,24101,1180.975952
+Dallas,24,San Francisco,102,24102,1480.044051
+Dallas,24,San Jose,103,24103,1447.340739
+Dallas,24,San Luis Obispo,104,24104,1373.457986
+Dallas,24,Seattle,108,24108,1679.177692
+Dallas,24,Spokane,110,24110,1487.721205
+Dallas,24,Vancouver,118,24118,1766.428515
+Denver,25,Anchorage,3,253,4311.270048
+Denver,25,Fairbanks,33,2533,4230.129024
+Denver,25,Honolulu,42,2542,5662.777476
+Denver,25,Juneau,48,2548,4846.381253
+Denver,25,Ketchikan,52,2552,5073.95936
+Denver,25,Maui,63,2563,5751.18023
+Denver,25,Philadelphia,86,2586,6922.590276
+Denver,25,Phoenix,87,2587,6854.534883
+Denver,25,Portland,89,2589,5850.778969
+Denver,25,Redding,94,2594,6141.024719
+Denver,25,San Francisco,102,25102,6299.598723
+Denver,25,Seattle,108,25108,5740.785804
+Denver,25,Sitka,109,25109,4890.014531
+Detroit,26,Anchorage,3,263,2977.85613
+Detroit,26,Portland,89,2689,1963.752711
+Detroit,26,Seattle,108,26108,1933.122062
+Dillingham,27,Anchorage,3,273,330.6654916
+Dillingham,27,Bozeman,14,2714,2145.386392
+Dillingham,27,King Salmon,53,2753,69.0555593
+Dillingham,27,Ontario,81,2781,2530.746632
+Dillingham,27,Redding,94,2794,2012.593427
+Dillingham,27,Reno,96,2796,2153.547939
+Dillingham,27,Sacramento,97,2797,2150.865755
+Dillingham,27,Santa Rosa,107,27107,2118.771604
+Dillingham,27,Seattle,108,27108,1659.212387
+Dutch Harbor,28,Anchorage,3,283,794.235456
+Edmonton,29,Seattle,108,29108,563.0570643
+El Paso,30,Seattle,108,30108,1375.806743
+Eugene,31,Anchorage,3,313,1611.691229
+Eugene,31,Burbank,15,3115,727.8479191
+Eugene,31,Honolulu,42,3142,2529.944414
+Eugene,31,Kona,55,3155,2533.865315
+Eugene,31,Lihue,60,3160,2564.151193
+Eugene,31,Los Angeles,62,3162,737.7942645
+Eugene,31,Maui,63,3163,2488.531597
+Eugene,31,Ontario,81,3181,750.3916175
+Eugene,31,Phoenix,87,3187,940.9987023
+Eugene,31,Portland,89,3189,103.2724218
+Eugene,31,Reno,96,3196,355.1908752
+Eugene,31,San Diego,101,31101,845.8645015
+Eugene,31,San Jose,103,31103,470.5214899
+Eugene,31,San Luis Obispo,104,31104,619.9426129
+Eugene,31,Santa Ana,105,31105,765.0079939
+Eugene,31,Seattle,108,31108,248.2425321
+Eugene,31,Spokane,110,31110,369.0025507
+Everett,32,Anchorage,3,323,1419.12776
+Everett,32,Boise,12,3212,415.5165035
+Everett,32,Honolulu,42,3242,2697.219994
+Everett,32,Las Vegas,58,3258,890.7199521
+Everett,32,Los Angeles,62,3262,982.714914
+Everett,32,Palm Springs,83,3283,1020.126119
+Everett,32,Phoenix,87,3287,1132.243216
+Everett,32,Portland,89,3289,170.4792899
+Everett,32,San Diego,101,32101,1085.848385
+Everett,32,San Francisco,102,32102,703.8626594
+Everett,32,San Jose,103,32103,736.6674062
+Everett,32,Santa Ana,105,32105,1007.85642
+Everett,32,Tucson,116,32116,1237.182078
+Fairbanks,33,Anchorage,3,333,259.6248622
+Fairbanks,33,Atlanta,4,334,3356.538197
+Fairbanks,33,Baltimore,6,336,3260.012732
+Fairbanks,33,Barrow,7,337,501.9362807
+Fairbanks,33,Boston,13,3313,3245.638488
+Fairbanks,33,Bozeman,14,3314,1910.673043
+Fairbanks,33,Chicago,19,3319,2789.342783
+Fairbanks,33,Columbus,22,3322,3033.593599
+Fairbanks,33,Dallas,24,3324,3062.603714
+Fairbanks,33,Denver,25,3325,4230.129024
+Fairbanks,33,Honolulu,42,3342,3043.624687
+Fairbanks,33,Houston,43,3343,3286.287064
+Fairbanks,33,Juneau,48,3348,620.1992345
+Fairbanks,33,Las Vegas,58,3358,2389.059076
+Fairbanks,33,Los Angeles,62,3362,2457.45244
+Fairbanks,33,Medford,65,3365,1833.258404
+Fairbanks,33,Minneapolis,68,3368,2449.273756
+Fairbanks,33,New Orleans,74,3374,3420.86802
+Fairbanks,33,New York,75,3375,3255.121382
+Fairbanks,33,Ontario,81,3381,2470.647574
+Fairbanks,33,Phoenix,87,3387,2631.265269
+Fairbanks,33,Pittsburgh,88,3388,3094.185801
+Fairbanks,33,Portland,89,3389,1638.005432
+Fairbanks,33,Prudhoe Bay,90,3390,378.4437237
+Fairbanks,33,Redding,94,3394,1954.801603
+Fairbanks,33,Reno,96,3396,2074.508964
+Fairbanks,33,Sacramento,97,3397,2100.627212
+Fairbanks,33,Salt Lake City,99,3399,2182.027437
+Fairbanks,33,Santa Rosa,107,33107,2084.761043
+Fairbanks,33,Seattle,108,33108,1517.786466
+Fort Lauderdale,34,Anchorage,3,343,3980.518429
+Fort Lauderdale,34,Los Angeles,62,3462,2328.320689
+Fort Lauderdale,34,Portland,89,3489,2690.036408
+Fort Lauderdale,34,San Diego,101,34101,2262.004561
+Fort Lauderdale,34,San Francisco,102,34102,2581.027879
+Fort Lauderdale,34,Seattle,108,34108,2715.7164
+Fort Myers,35,Los Angeles,62,3562,2218.890846
+Fort Myers,35,Seattle,108,35108,2617.700015
+Fresno,36,Anchorage,3,363,2132.245236
+Fresno,36,Boise,12,3612,507.816949
+Fresno,36,Guadalajara,38,3638,1488.924966
+Fresno,36,Honolulu,42,3642,2514.102172
+Fresno,36,Los Angeles,62,3662,207.7644882
+Fresno,36,Portland,89,3689,621.6738193
+Fresno,36,Puerto Vallarta,91,3691,1419.981695
+Fresno,36,San Diego,101,36101,318.1461395
+Fresno,36,Seattle,108,36108,759.0103049
+Fresno,36,Spokane,110,36110,761.0437692
+Great Falls,37,Seattle,108,37108,514.6796358
+Guadalajara,38,Fresno,36,3836,1488.924966
+Guatemala City,39,Los Angeles,62,3962,2189.061403
+Gustavus,40,Juneau,48,4048,42.52523925
+Helena,41,Seattle,108,41108,488.9770367
+Honolulu,42,Anchorage,3,423,2784.269484
+Honolulu,42,Baltimore,6,426,4845.721919
+Honolulu,42,Bellingham,9,429,2714.428377
+Honolulu,42,Boise,12,4212,2831.821951
+Honolulu,42,Chicago,19,4219,4248.175479
+Honolulu,42,Dallas,24,4224,3789.013982
+Honolulu,42,Denver,25,4225,5662.777476
+Honolulu,42,Eugene,31,4231,2529.944414
+Honolulu,42,Everett,32,4232,2697.219994
+Honolulu,42,Los Angeles,62,4262,2560.044877
+Honolulu,42,Medford,65,4265,2488.278815
+Honolulu,42,Minneapolis,68,4268,3962.009847
+Honolulu,42,Oakland,78,4278,2404.108269
+Honolulu,42,Pasco,84,4284,2770.409057
+Honolulu,42,Pittsburgh,88,4288,4654.647246
+Honolulu,42,Portland,89,4289,2595.106615
+Honolulu,42,Pullman,92,4292,2868.662101
+Honolulu,42,Redding,94,4294,2463.704657
+Honolulu,42,Redmond,95,4295,2621.206261
+Honolulu,42,Salt Lake City,99,4299,2992.294345
+Honolulu,42,San Diego,101,42101,2608.290609
+Honolulu,42,San Francisco,102,42102,2394.990156
+Honolulu,42,San Jose,103,42103,2413.466368
+Honolulu,42,San Luis Obispo,104,42104,2441.9418
+Honolulu,42,Seattle,108,42108,2679.497117
+Honolulu,42,Spokane,110,42110,2883.843153
+Honolulu,42,Vancouver,118,42118,2708.731526
+Honolulu,42,Wenatchee,122,42122,2755.322697
+Honolulu,42,Yakima,125,42125,2721.585887
+Houston,43,Anchorage,3,433,3270.416289
+Houston,43,Belize City,8,438,961.336955
+Houston,43,Bozeman,14,4314,1388.220071
+Houston,43,Chicago,19,4319,939.8738119
+Houston,43,Fairbanks,33,4333,3286.287064
+Houston,43,Los Angeles,62,4362,1370.114903
+Houston,43,Oakland,78,4378,1632.84136
+Houston,43,Ontario,81,4381,1333.326905
+Houston,43,Portland,89,4389,1832.488895
+Houston,43,San Francisco,102,43102,1641.420191
+Houston,43,Santa Ana,105,43105,1347.231946
+Houston,43,Seattle,108,43108,1888.645699
+Houston,43,Spokane,110,43110,1702.97212
+Houston,43,Victoria,119,43119,1958.62781
+Idaho Falls,44,Boise,12,4412,210.7277037
+Idaho Falls,44,Seattle,108,44108,573.065307
+Indianapolis,45,Anchorage,3,453,3011.040838
+Indianapolis,45,Portland,89,4589,1880.502167
+Indianapolis,45,Saint Louis,98,4598,236.3057521
+Indianapolis,45,Seattle,108,45108,1867.703335
+Ixtapa-Zihuatanejo,46,San Francisco,102,46102,1879.040464
+Jackson,47,San Diego,101,47101,1567.96441
+Jackson,47,San Francisco,102,47102,1852.680292
+Jackson,47,San Jose,103,47103,1821.941698
+Jackson,47,Seattle,108,47108,1982.988267
+Juneau,48,Anchorage,3,483,566.4008573
+Juneau,48,Bozeman,14,4814,1317.424224
+Juneau,48,Denver,25,4825,4846.381253
+Juneau,48,Fairbanks,33,4833,620.1992345
+Juneau,48,Gustavus,40,4840,42.52523925
+Juneau,48,Ketchikan,52,4852,235.7758399
+Juneau,48,Ontario,81,4881,1852.935428
+Juneau,48,Petersburg,85,4885,123.1677539
+Juneau,48,Portland,89,4889,1018.602403
+Juneau,48,Redding,94,4894,1340.374715
+Juneau,48,Reno,96,4896,1456.100623
+Juneau,48,Sacramento,97,4897,1486.451276
+Juneau,48,Salt Lake City,99,4899,1570.005608
+Juneau,48,Santa Rosa,107,48107,1474.321883
+Juneau,48,Seattle,108,48108,897.6701226
+Juneau,48,Sitka,109,48109,94.69574727
+Juneau,48,Spokane,110,48110,1021.477678
+Juneau,48,Yakutat,126,48126,197.9215918
+Kalispell,49,Los Angeles,62,4962,998.3133361
+Kalispell,49,Portland,89,4989,435.5914578
+Kalispell,49,Raleigh,93,4993,1999.703011
+Kalispell,49,San Diego,101,49101,1080.129363
+Kalispell,49,Seattle,108,49108,373.3578337
+Kansas City,50,Anchorage,3,503,2770.340542
+Kansas City,50,Cancun,17,5017,1318.765873
+Kansas City,50,Fairbanks,33,5033,2750.009273
+Kansas City,50,Great Falls,37,5037,1019.856476
+Kansas City,50,Honolulu,42,5042,3892.664854
+Kansas City,50,Portland,89,5089,1494.655539
+Kansas City,50,Puerto Vallarta,91,5091,1422.108986
+Kansas City,50,Redding,94,5094,1472.4021
+Kansas City,50,San Francisco,102,50102,1503.522564
+Kansas City,50,Santa Rosa,107,50107,1509.859651
+Kansas City,50,Seattle,108,50108,1504.444959
+Kansas City,50,Tucson,116,50116,1029.744306
+Kansas City,50,Vancouver,118,50118,1567.645976
+Kelowna,51,Los Angeles,62,5162,1095.312374
+Ketchikan,52,Anchorage,3,523,773.3091719
+Ketchikan,52,Bozeman,14,5214,1117.789477
+Ketchikan,52,Juneau,48,5248,235.7758399
+Ketchikan,52,Ontario,81,5281,1617.5753
+Ketchikan,52,Portland,89,5289,784.1759374
+Ketchikan,52,Redding,94,5294,1104.603424
+Ketchikan,52,Reno,96,5296,1220.971353
+Ketchikan,52,Sacramento,97,5297,1250.681133
+Ketchikan,52,Santa Rosa,107,52107,1238.916638
+Ketchikan,52,Seattle,108,52108,666.965712
+Ketchikan,52,Sitka,109,52109,185.3910035
+Ketchikan,52,Wrangell,124,52124,83.88041836
+King Salmon,53,Anchorage,3,533,291.8276252
+King Salmon,53,Bozeman,14,5314,2079.026305
+King Salmon,53,Dillingham,27,5327,69.0555593
+King Salmon,53,Ontario,81,5381,2461.929035
+King Salmon,53,Redding,94,5394,1943.649383
+King Salmon,53,Reno,96,5396,2084.515219
+King Salmon,53,Sacramento,97,5397,2082.03573
+King Salmon,53,Santa Rosa,107,53107,2050.132849
+King Salmon,53,Seattle,108,53108,1590.794083
+Kodiak,54,Anchorage,3,543,252.2312842
+Kodiak,54,Bozeman,14,5414,1918.11206
+Kodiak,54,Ontario,81,5481,2296.297902
+Kodiak,54,Redding,94,5494,1777.569285
+Kodiak,54,Reno,96,5496,1918.028572
+Kodiak,54,Sacramento,97,5497,1916.38123
+Kodiak,54,San Luis Obispo,104,54104,2130.000844
+Kodiak,54,Santa Rosa,107,54107,1885.146077
+Kodiak,54,Seattle,108,54108,1425.155543
+Kona,55,Anchorage,3,553,2887.302565
+Kona,55,Bellingham,9,559,2736.186983
+Kona,55,Boise,12,5512,2824.210043
+Kona,55,Eugene,31,5531,2533.865315
+Kona,55,Los Angeles,62,5562,2512.653533
+Kona,55,Medford,65,5565,2484.381101
+Kona,55,Oakland,78,5578,2378.501032
+Kona,55,Pasco,84,5584,2777.186281
+Kona,55,Portland,89,5589,2604.43292
+Kona,55,Pullman,92,5592,2874.790382
+Kona,55,Redding,94,5594,2451.167134
+Kona,55,Redmond,95,5595,2622.970151
+Kona,55,Salt Lake City,99,5599,2968.704715
+Kona,55,San Diego,101,55101,2554.128258
+Kona,55,San Jose,103,55103,2385.004371
+Kona,55,Seattle,108,55108,2696.612905
+Kona,55,Spokane,110,55110,2893.920847
+Kona,55,Wenatchee,122,55122,2768.565963
+Kona,55,Yakima,125,55125,2731.86056
+Kotzebue,56,Anchorage,3,563,546.8497877
+Kotzebue,56,Bozeman,14,5614,2352.459222
+Kotzebue,56,Nome,77,5677,183.9376445
+Kotzebue,56,Ontario,81,5681,2890.885545
+Kotzebue,56,Redding,94,5694,2371.399209
+Kotzebue,56,Reno,96,5696,2497.156093
+Kotzebue,56,Sacramento,97,5697,2516.257522
+Kotzebue,56,Santa Rosa,107,56107,2495.786048
+Kotzebue,56,Seattle,108,56108,1949.22146
+La Paz,57,Los Angeles,62,5762,834.659166
+Las Vegas,58,Anchorage,3,583,2294.858436
+Las Vegas,58,Boise,12,5812,517.6038826
+Las Vegas,58,Cabo San Lucas,16,5816,969.4381778
+Las Vegas,58,Dallas,24,5824,1068.58555
+Las Vegas,58,Everett,32,5832,890.7199521
+Las Vegas,58,Fairbanks,33,5833,2389.059076
+Las Vegas,58,Los Angeles,62,5862,228.1795582
+Las Vegas,58,New York,75,5875,2228.226523
+Las Vegas,58,Pasco,84,5884,725.3557811
+Las Vegas,58,Portland,89,5889,755.3208156
+Las Vegas,58,Puerto Vallarta,91,5891,1230.518561
+Las Vegas,58,Redding,94,5894,495.6205034
+Las Vegas,58,Redmond,95,5895,643.534616
+Las Vegas,58,San Diego,101,58101,264.8975329
+Las Vegas,58,San Francisco,102,58102,416.3698436
+Las Vegas,58,San Jose,103,58103,380.6186147
+Las Vegas,58,San Luis Obispo,104,58104,315.6225538
+Las Vegas,58,Santa Rosa,107,58107,444.1427347
+Las Vegas,58,Seattle,108,58108,871.497813
+Las Vegas,58,Spokane,110,58110,802.255511
+Liberia,59,San Francisco,102,59102,2954.859193
+Liberia,59,Seattle,108,59108,3330.254326
+Lihue,60,Bellingham,9,609,2737.082577
+Lihue,60,Boise,12,6012,2872.320438
+Lihue,60,Eugene,31,6031,2564.151193
+Lihue,60,Los Angeles,62,6062,2623.54385
+Lihue,60,Medford,65,6065,2527.308309
+Lihue,60,Oakland,78,6078,2455.964405
+Lihue,60,Orlando,82,6082,4809.567498
+Lihue,60,Pasco,84,6084,2802.323374
+Lihue,60,Pittsburgh,88,6088,4705.355659
+Lihue,60,Portland,89,6089,2625.838745
+Lihue,60,Pullman,92,6092,2900.774974
+Lihue,60,Raleigh,93,6093,4844.963441
+Lihue,60,Redding,94,6094,2507.903765
+Lihue,60,Redmond,95,6095,2656.511375
+Lihue,60,Sacramento,97,6097,2510.533205
+Lihue,60,Salt Lake City,99,6099,3041.840554
+Lihue,60,San Diego,101,60101,2675.284998
+Lihue,60,San Francisco,102,60102,2446.798174
+Lihue,60,San Jose,103,60103,2466.907558
+Lihue,60,Santa Rosa,107,60107,2444.884134
+Lihue,60,Seattle,108,60108,2705.172114
+Lihue,60,Spokane,110,60110,2913.485895
+Lihue,60,Wenatchee,122,60122,2783.259876
+Lihue,60,Yakima,125,60125,2751.444065
+Loreto,61,San Francisco,102,61102,1038.637262
+Los Angeles,62,Anchorage,3,623,2339.778213
+Los Angeles,62,Austin,5,625,1224.942139
+Los Angeles,62,Baltimore,6,626,2314.646512
+Los Angeles,62,Belize City,8,628,2178.976657
+Los Angeles,62,Boise,12,6212,669.3400374
+Los Angeles,62,Boston,13,6213,2590.957975
+Los Angeles,62,Bozeman,14,6214,888.4035618
+Los Angeles,62,Cabo San Lucas,16,6216,921.4561654
+Los Angeles,62,Cancun,17,6217,2108.306342
+Los Angeles,62,Chicago,19,6219,1741.023495
+Los Angeles,62,Columbus,22,6222,1973.558845
+Los Angeles,62,Dallas,24,6224,1237.066733
+Los Angeles,62,Eugene,31,6231,737.7942645
+Los Angeles,62,Everett,32,6232,982.714914
+Los Angeles,62,Fairbanks,33,6233,2457.45244
+Los Angeles,62,Fort Lauderdale,34,6234,2328.320689
+Los Angeles,62,Fort Myers,35,6235,2218.890846
+Los Angeles,62,Fresno,36,6236,207.7644882
+Los Angeles,62,Guadalajara,38,6238,1296.818591
+Los Angeles,62,Guatemala City,39,6239,2189.061403
+Los Angeles,62,Honolulu,42,6242,2560.044877
+Los Angeles,62,Ixtapa-Zihuatanejo,46,6246,1532.895714
+Los Angeles,62,Kalispell,49,6249,998.3133361
+Los Angeles,62,Kelowna,51,6251,1095.312374
+Los Angeles,62,Kona,55,6255,2512.653533
+Los Angeles,62,La Paz,57,6257,834.659166
+Los Angeles,62,Las Vegas,58,6258,228.1795582
+Los Angeles,62,Liberia,59,6259,2623.921967
+Los Angeles,62,Lihue,60,6260,2623.54385
+Los Angeles,62,Loreto,61,6261,691.4387477
+Los Angeles,62,Manzanillo,127,62127,1344.175434
+Los Angeles,62,Maui,63,6263,2493.918543
+Los Angeles,62,Mazatlan,64,6264,1034.184167
+Los Angeles,62,Medford,65,6265,624.3685967
+Los Angeles,62,Missoula,69,6269,912.285074
+Los Angeles,62,Monterrey,71,6271,1218.108472
+Los Angeles,62,Nassau,73,6273,2517.637605
+Los Angeles,62,New York,75,6275,2445.957258
+Los Angeles,62,Newark,76,6276,2436.134071
+Los Angeles,62,Pasco,84,6284,843.231833
+Los Angeles,62,Philadelphia,86,6286,2388.321385
+Los Angeles,62,Portland,89,6289,825.857461
+Los Angeles,62,Puerto Vallarta,91,6291,1222.545811
+Los Angeles,62,Redmond,95,6295,723.1334944
+Los Angeles,62,Reno,96,6296,388.030766
+Los Angeles,62,Salt Lake City,99,6299,579.3229776
+Los Angeles,62,San Francisco,102,62102,347.4429245
+Los Angeles,62,San Jose,103,62103,303.2192645
+Los Angeles,62,San Jose,103,62103,303.2192645
+Los Angeles,62,Santa Rosa,107,62107,392.3892282
+Los Angeles,62,Seattle,108,62108,960.2191224
+Los Angeles,62,Spokane,110,62110,940.9869926
+Los Angeles,62,Tampa,113,62113,2149.664996
+Los Angeles,62,Washington D.C.,121,62121,2271.857558
+Maui,63,Anchorage,3,633,2803.950482
+Maui,63,Bellingham,9,639,2682.742643
+Maui,63,Boise,12,6312,2784.635892
+Maui,63,Chicago,19,6319,4192.330851
+Maui,63,Dallas,24,6324,3719.088178
+Maui,63,Eugene,31,6331,2488.531597
+Maui,63,Los Angeles,62,6362,2493.918543
+Maui,63,Medford,65,6365,2442.786826
+Maui,63,Oakland,78,6378,2347.837704
+Maui,63,Pasco,84,6384,2730.638773
+Maui,63,Portland,89,6389,2556.593557
+Maui,63,Pullman,92,6392,2828.599057
+Maui,63,Redding,94,6394,2413.835072
+Maui,63,Redmond,95,6395,2578.719999
+Maui,63,Sacramento,97,6397,2405.283156
+Maui,63,Salt Lake City,99,6399,2937.312191
+Maui,63,San Diego,101,63101,2539.271002
+Maui,63,San Francisco,102,63102,2338.772179
+Maui,63,San Jose,103,63103,2355.850943
+Maui,63,Seattle,108,63108,2645.238117
+Maui,63,Spokane,110,63110,2845.886372
+Maui,63,Wenatchee,122,63122,2719.001202
+Maui,63,Yakima,125,63125,2683.650817
+Mazatlan,64,San Francisco,102,64102,1380.263334
+Medford,65,Anchorage,3,653,1718.176198
+Medford,65,Boise,12,6512,346.2725781
+Medford,65,Columbus,22,6522,2061.408653
+Medford,65,Fairbanks,33,6533,1833.258404
+Medford,65,Honolulu,42,6542,2488.278815
+Medford,65,Kona,55,6555,2484.381101
+Medford,65,Lihue,60,6560,2527.308309
+Medford,65,Los Angeles,62,6562,624.3685967
+Medford,65,Maui,63,6563,2442.786826
+Medford,65,Phoenix,87,6587,848.788242
+Medford,65,Portland,89,6589,220.2645395
+Medford,65,Puerto Vallarta,91,6591,1817.055837
+Medford,65,Redmond,95,6595,158.2072579
+Medford,65,San Diego,101,65101,733.7531959
+Medford,65,San Luis Obispo,104,65104,501.7569812
+Medford,65,Santa Ana,105,65105,652.2281738
+Medford,65,Seattle,108,65108,365.3387955
+Miami,66,Portland,89,6689,2702.607513
+Miami,66,Seattle,108,66108,2729.486266
+Milwaukee,67,Portland,89,6789,1712.202358
+Milwaukee,67,Seattle,108,67108,1685.151064
+Minneapolis,68,Anchorage,3,683,2501.56696
+Minneapolis,68,Boise,12,6812,1135.944192
+Minneapolis,68,Fairbanks,33,6833,2449.273756
+Minneapolis,68,Honolulu,42,6842,3962.009847
+Minneapolis,68,Juneau,48,6848,1954.836746
+Minneapolis,68,Portland,89,6889,1422.465138
+Minneapolis,68,San Diego,101,68101,1530.780426
+Minneapolis,68,Seattle,108,68108,1390.986135
+Missoula,69,Los Angeles,62,6962,912.285074
+Missoula,69,Portland,89,6989,424.0612509
+Missoula,69,San Diego,101,69101,991.4961421
+Missoula,69,San Francisco,102,69102,759.5386236
+Missoula,69,San Jose,103,69103,772.8147342
+Missoula,69,Seattle,108,69108,393.523334
+Monterey,70,San Diego,101,70101,1125.163799
+Monterey,70,Seattle,108,70108,1931.932989
+Monterrey,71,Los Angeles,62,7162,1218.108472
+Nashville,72,Anchorage,3,723,3187.829006
+Nashville,72,Ontario,81,7281,1740.929186
+Nashville,72,Portland,89,7289,1965.299796
+Nashville,72,Redding,94,7294,1938.825113
+Nashville,72,San Francisco,102,72102,1958.803658
+Nashville,72,Seattle,108,72108,1970.837831
+Nassau,73,Los Angeles,62,7362,2517.637605
+Nassau,73,Seattle,108,73108,2891.663271
+New Orleans,74,Anchorage,3,743,3429.689764
+New Orleans,74,Dallas,24,7424,441.6232707
+New Orleans,74,Portland,89,7489,2058.08997
+New Orleans,74,Redding,94,7494,1949.531504
+New Orleans,74,San Francisco,102,74102,1921.01999
+New Orleans,74,Seattle,108,74108,2097.351836
+New York,75,Anchorage,3,753,3362.263134
+New York,75,Fairbanks,33,7533,3255.121382
+New York,75,Las Vegas,58,7558,2228.226523
+New York,75,Los Angeles,62,7562,2445.957258
+New York,75,Oakland,78,7578,2556.926257
+New York,75,Palm Springs,83,7583,2362.783992
+New York,75,Portland,89,7589,2439.385567
+New York,75,Puerto Vallarta,91,7591,2296.785123
+New York,75,Redding,94,7594,2502.954613
+New York,75,San Diego,101,75101,2428.248282
+New York,75,San Francisco,102,75102,2565.995051
+New York,75,San Jose,103,75103,2549.405495
+New York,75,Seattle,108,75108,2402.647146
+New York,75,Spokane,110,75110,2174.740078
+New York,75,Vancouver,118,75118,2426.622945
+Newark,76,Anchorage,3,763,3354.325348
+Newark,76,Los Angeles,62,7662,2436.134071
+Newark,76,Portland,89,7689,2429.555066
+Newark,76,Redding,94,7694,2492.969803
+Newark,76,San Diego,101,76101,2418.524313
+Newark,76,San Francisco,102,76102,2556.014078
+Newark,76,San Jose,103,76103,2539.433523
+Newark,76,Seattle,108,76108,2392.945755
+Newark,76,Spokane,110,76110,2165.020266
+Nome,77,Anchorage,3,773,537.0208895
+Nome,77,Bozeman,14,7714,2405.298013
+Nome,77,Kotzebue,56,7756,183.9376445
+Nome,77,Ontario,81,7781,2890.854759
+Nome,77,Redding,94,7794,2369.710252
+Nome,77,Reno,96,7796,2502.142904
+Nome,77,Sacramento,97,7797,2512.588113
+Nome,77,Santa Rosa,107,77107,2487.215543
+Nome,77,Seattle,108,77108,1970.70909
+Oakland,78,Anchorage,3,783,2007.07324
+Oakland,78,Bellingham,9,789,756.9708739
+Oakland,78,Cabo San Lucas,16,7816,1263.137681
+Oakland,78,Chicago,19,7819,1844.519066
+Oakland,78,Honolulu,42,7842,2404.108269
+Oakland,78,Kona,55,7855,2378.501032
+Oakland,78,Lihue,60,7860,2455.964405
+Oakland,78,Maui,63,7863,2347.837704
+Oakland,78,New York,75,7875,2556.926257
+Oakland,78,Portland,89,7889,533.6099263
+Oakland,78,Seattle,108,78108,677.5632213
+Oakland,78,Spokane,110,78110,723.413774
+Oakland,78,Vancouver,118,78118,793.0405945
+Oklahoma City,79,Anchorage,3,793,2871.994087
+Oklahoma City,79,Seattle,108,79108,1521.203757
+Omaha,80,Anchorage,3,803,2606.547947
+Omaha,80,Portland,89,8089,1367.220491
+Omaha,80,Seattle,108,80108,1366.280799
+Ontario,81,Anchorage,3,813,2356.457223
+Ontario,81,Bellingham,9,819,1046.061204
+Ontario,81,Eugene,31,8131,750.3916175
+Ontario,81,Honolulu,42,8142,2596.639908
+Ontario,81,Kona,55,8155,2548.778817
+Ontario,81,Lihue,60,8160,2660.322668
+Ontario,81,Nashville,72,8172,1740.929186
+Ontario,81,New York,75,8175,2412.015308
+Ontario,81,Pasco,84,8184,845.4945158
+Ontario,81,Portland,89,8189,835.9295944
+Ontario,81,Redmond,95,8195,731.1601996
+Ontario,81,Seattle,108,81108,967.9456377
+Ontario,81,Spokane,110,81110,939.8187989
+Ontario,81,Vancouver,118,81118,1087.745158
+Orlando,82,Anchorage,3,823,3799.849665
+Orlando,82,Boise,12,8212,2185.251387
+Orlando,82,Lihue,60,8260,4809.567498
+Orlando,82,Portland,89,8289,2524.887714
+Orlando,82,Sacramento,97,8297,2390.027382
+Orlando,82,San Diego,101,82101,2136.555578
+Orlando,82,San Francisco,102,82102,2436.883394
+Orlando,82,Seattle,108,82108,2546.286792
+Orlando,82,Spokane,110,82110,2331.167278
+Palm Springs,83,Anchorage,3,833,2398.897628
+Palm Springs,83,Austin,5,835,1125.538377
+Palm Springs,83,Boise,12,8312,676.5929149
+Palm Springs,83,Everett,32,8332,1020.126119
+Palm Springs,83,New York,75,8375,2362.783992
+Palm Springs,83,Portland,89,8389,870.6550217
+Palm Springs,83,Reno,96,8396,433.8634122
+Palm Springs,83,San Francisco,102,83102,428.11376
+Palm Springs,83,San Jose,103,83103,384.5776613
+Palm Springs,83,Seattle,108,83108,998.8379502
+Palm Springs,83,Spokane,110,83110,956.9244639
+Pasco,84,Anchorage,3,843,1603.352973
+Pasco,84,Baltimore,6,846,2180.984057
+Pasco,84,Burbank,15,8415,834.1622447
+Pasco,84,Denver,25,8425,5903.284327
+Pasco,84,Honolulu,42,8442,2770.409057
+Pasco,84,Kona,55,8455,2777.186281
+Pasco,84,Las Vegas,58,8458,725.3557811
+Pasco,84,Lihue,60,8460,2802.323374
+Pasco,84,Los Angeles,62,8462,843.231833
+Pasco,84,Maui,63,8463,2730.638773
+Pasco,84,New York,75,8475,2262.795898
+Pasco,84,Oklahoma City,79,8479,1343.370216
+Pasco,84,Ontario,81,8481,845.4945158
+Pasco,84,Phoenix,87,8487,958.3293405
+Pasco,84,San Diego,101,84101,940.0663462
+Pasco,84,San Francisco,102,84102,608.6276241
+Pasco,84,Santa Ana,105,84105,865.9342369
+Pasco,84,Seattle,108,84108,179.0553976
+Petersburg,85,Bozeman,14,8514,1210.536389
+Petersburg,85,Juneau,48,8548,123.1677539
+Petersburg,85,Ontario,81,8581,1729.871578
+Petersburg,85,Redding,94,8594,1217.238544
+Petersburg,85,Reno,96,8596,1333.114785
+Petersburg,85,Sacramento,97,8597,1363.316965
+Petersburg,85,Santa Rosa,107,85107,1351.459426
+Petersburg,85,Seattle,108,85108,776.3906475
+Petersburg,85,Wrangell,124,85124,30.73985273
+Philadelphia,86,Anchorage,3,863,3364.753292
+Philadelphia,86,Denver,25,8625,6922.590276
+Philadelphia,86,Juneau,48,8648,2853.228606
+Philadelphia,86,Las Vegas,58,8658,2172.438413
+Philadelphia,86,Los Angeles,62,8662,2388.321385
+Philadelphia,86,Nashville,72,8672,683.1376479
+Philadelphia,86,Oakland,78,8678,2507.580559
+Philadelphia,86,Phoenix,87,8687,2078.014678
+Philadelphia,86,Portland,89,8689,2405.411984
+Philadelphia,86,San Francisco,102,86102,2516.690207
+Philadelphia,86,San Jose,103,86103,2499.018029
+Philadelphia,86,San Luis Obispo,104,86104,2484.185365
+Philadelphia,86,Seattle,108,86108,2373.269029
+Philadelphia,86,Vancouver,118,86118,2401.147816
+Phoenix,87,Anchorage,3,873,2544.53958
+Phoenix,87,Boise,12,8712,737.2718439
+Phoenix,87,Denver,25,8725,6854.534883
+Phoenix,87,Everett,32,8732,1132.243216
+Phoenix,87,Fairbanks,33,8733,2631.265269
+Phoenix,87,Pasco,84,8784,958.3293405
+Phoenix,87,Portland,89,8789,1005.216269
+Phoenix,87,San Francisco,102,87102,652.8865721
+Phoenix,87,Seattle,108,87108,1114.500341
+Phoenix,87,Spokane,110,87110,1020.483936
+Pittsburgh,88,Anchorage,3,883,3179.190647
+Pittsburgh,88,Baltimore,6,886,196.450075
+Pittsburgh,88,Bellingham,9,889,2137.087879
+Pittsburgh,88,Boise,12,8812,1857.867138
+Pittsburgh,88,Fairbanks,33,8833,3094.185801
+Pittsburgh,88,Honolulu,42,8842,4654.647246
+Pittsburgh,88,Lihue,60,8860,4705.355659
+Pittsburgh,88,Portland,89,8889,2159.08973
+Pittsburgh,88,Sacramento,97,8897,2194.917196
+Pittsburgh,88,San Francisco,102,88102,2259.657505
+Pittsburgh,88,Seattle,108,88108,2132.453529
+Pittsburgh,88,Spokane,110,88110,1903.912495
+Pittsburgh,88,Vancouver,118,88118,2165.601082
+Portland,89,Albuquerque,2,892,1105.959174
+Portland,89,Anchorage,3,893,1539.752894
+Portland,89,Atlanta,4,894,2167.830955
+Portland,89,Austin,5,895,1706.183176
+Portland,89,Baltimore,6,896,2355.519789
+Portland,89,Billings,11,8911,681.7932553
+Portland,89,Boise,12,8912,342.573319
+Portland,89,Boston,13,8913,2532.517085
+Portland,89,Bozeman,14,8914,561.3618248
+Portland,89,Burbank,15,8915,816.0527893
+Portland,89,Cabo San Lucas,16,8916,1719.830508
+Portland,89,Cancun,17,8917,2630.364336
+Portland,89,Charleston,18,8918,2419.324975
+Portland,89,Chicago,19,8919,1753.719323
+Portland,89,Columbus,22,8922,2027.765555
+Portland,89,Dallas,24,8924,1630.183603
+Portland,89,Denver,25,8925,5850.778969
+Portland,89,Detroit,26,8926,1963.752711
+Portland,89,Eugene,31,8931,103.2724218
+Portland,89,Everett,32,8932,170.4792899
+Portland,89,Fairbanks,33,8933,1638.005432
+Portland,89,Fort Lauderdale,34,8934,2690.036408
+Portland,89,Fresno,36,8936,621.6738193
+Portland,89,Guadalajara,38,8938,2036.556196
+Portland,89,Honolulu,42,8942,2595.106615
+Portland,89,Houston,43,8943,1832.488895
+Portland,89,Indianapolis,45,8945,1880.502167
+Portland,89,Ixtapa-Zihuatanejo,46,8946,2277.030288
+Portland,89,Juneau,48,8948,1018.602403
+Portland,89,Kalispell,49,8949,435.5914578
+Portland,89,Kansas City,50,8950,1494.655539
+Portland,89,Ketchikan,52,8952,784.1759374
+Portland,89,Kona,55,8955,2604.43292
+Portland,89,Las Vegas,58,8958,755.3208156
+Portland,89,Lihue,60,8960,2625.838745
+Portland,89,Los Angeles,62,8962,825.857461
+Portland,89,Maui,63,8963,2556.593557
+Portland,89,Mazatlan,64,8964,1788.88504
+Portland,89,Medford,65,8965,220.2645395
+Portland,89,Miami,66,8966,2702.607513
+Portland,89,Milwaukee,67,8967,1712.202358
+Portland,89,Minneapolis,68,8968,1422.465138
+Portland,89,Missoula,69,8969,424.0612509
+Portland,89,Nashville,72,8972,1965.299796
+Portland,89,New Orleans,74,8974,2058.08997
+Portland,89,New York,75,8975,2439.385567
+Portland,89,Newark,76,8976,2429.555066
+Portland,89,Oakland,78,8978,533.6099263
+Portland,89,Omaha,80,8980,1367.220491
+Portland,89,Ontario,81,8981,835.9295944
+Portland,89,Orlando,82,8982,2524.887714
+Portland,89,Palm Springs,83,8983,870.6550217
+Portland,89,Philadelphia,86,8986,2405.411984
+Portland,89,Phoenix,87,8987,1005.216269
+Portland,89,Pittsburgh,88,8988,2159.08973
+Portland,89,Puerto Vallarta,91,8991,1985.235814
+Portland,89,Raleigh,93,8993,2371.543704
+Portland,89,Redding,94,8994,341.6520551
+Portland,89,Redmond,95,8995,112.7040704
+Portland,89,Reno,96,8996,438.6100724
+Portland,89,Sacramento,97,8997,483.4040638
+Portland,89,Saint Louis,98,8998,1706.549435
+Portland,89,Salt Lake City,99,8999,634.8863886
+Portland,89,San Antonio,100,89100,1717.996779
+Portland,89,San Diego,101,89101,931.8447323
+Portland,89,San Francisco,102,89102,534.8883516
+Portland,89,San Jose,103,89103,568.9161319
+Portland,89,San Luis Obispo,104,89104,715.4406802
+Portland,89,Santa Ana,105,89105,852.1454069
+Portland,89,Santa Barbara,106,89106,781.9473524
+Portland,89,Santa Rosa,107,89107,488.3678518
+Portland,89,Seattle,108,89108,145.2441627
+Portland,89,Spokane,110,89110,289.4944614
+Portland,89,Tampa,113,89113,2500.335652
+Portland,89,Tucson,116,89116,1112.148755
+Portland,89,Vancouver,118,89118,259.5382604
+Portland,89,Washington D.C.,121,89121,2325.51436
+Prudhoe Bay,90,Anchorage,3,903,628.9567848
+Prudhoe Bay,90,Barrow,7,907,195.1107167
+Prudhoe Bay,90,Fairbanks,33,9033,378.4437237
+Puerto Vallarta,91,Kansas City,50,9150,1422.108986
+Puerto Vallarta,91,Las Vegas,58,9158,1230.518561
+Puerto Vallarta,91,Medford,65,9165,1817.055837
+Puerto Vallarta,91,New York,75,9175,2296.785123
+Puerto Vallarta,91,Sacramento,97,9197,1573.966247
+Puerto Vallarta,91,Saint Louis,98,9198,1533.235517
+Pullman,92,Boise,12,9212,220.2456078
+Pullman,92,Honolulu,42,9242,2868.662101
+Pullman,92,Kona,55,9255,2874.790382
+Pullman,92,Lihue,60,9260,2900.774974
+Pullman,92,Maui,63,9263,2828.599057
+Pullman,92,Seattle,108,92108,249.9605357
+Raleigh,93,Anchorage,3,933,3479.510368
+Raleigh,93,Fairbanks,33,9333,3405.081527
+Raleigh,93,Kalispell,49,9349,1999.703011
+Raleigh,93,Las Vegas,58,9358,2029.160615
+Raleigh,93,Portland,89,9389,2371.543704
+Raleigh,93,Salt Lake City,99,9399,1824.518172
+Raleigh,93,San Francisco,102,93102,2404.389427
+Raleigh,93,San Jose,103,93103,2381.167158
+Raleigh,93,Seattle,108,93108,2361.50171
+Redding,94,Anchorage,3,943,1835.524174
+Redding,94,Austin,5,945,1550.675269
+Redding,94,Barrow,7,947,2432.585784
+Redding,94,Bethel,10,9410,2164.420852
+Redding,94,Bozeman,14,9414,670.0606686
+Redding,94,Cordova,23,9423,1700.071704
+Redding,94,Dallas,24,9424,1508.75499
+Redding,94,Denver,25,9425,6141.024719
+Redding,94,Dillingham,27,9427,2012.593427
+Redding,94,Fairbanks,33,9433,1954.801603
+Redding,94,Honolulu,42,9442,2463.704657
+Redding,94,Juneau,48,9448,1340.374715
+Redding,94,Kansas City,50,9450,1472.4021
+Redding,94,Ketchikan,52,9452,1104.603424
+Redding,94,King Salmon,53,9453,1943.649383
+Redding,94,Kodiak,54,9454,1777.569285
+Redding,94,Kona,55,9455,2451.167134
+Redding,94,Kotzebue,56,9456,2371.399209
+Redding,94,Las Vegas,58,9458,495.6205034
+Redding,94,Lihue,60,9460,2507.903765
+Redding,94,Maui,63,9463,2413.835072
+Redding,94,Nashville,72,9472,1938.825113
+Redding,94,New Orleans,74,9474,1949.531504
+Redding,94,New York,75,9475,2502.954613
+Redding,94,Newark,76,9476,2492.969803
+Redding,94,Nome,77,9477,2369.710252
+Redding,94,Petersburg,85,9485,1217.238544
+Redding,94,Portland,89,9489,341.6520551
+Redding,94,San Diego,101,94101,614.853353
+Redding,94,Seattle,108,94108,485.7006185
+Redding,94,Sitka,109,94109,1277.790079
+Redding,94,Wrangell,124,94124,1187.899819
+Redding,94,Yakutat,126,94126,1506.255166
+Redmond,95,Columbus,22,9522,1961.466276
+Redmond,95,Honolulu,42,9542,2621.206261
+Redmond,95,Kona,55,9555,2622.970151
+Redmond,95,Las Vegas,58,9558,643.534616
+Redmond,95,Lihue,60,9560,2656.511375
+Redmond,95,Los Angeles,62,9562,723.1334944
+Redmond,95,Maui,63,9563,2578.719999
+Redmond,95,Portland,89,9589,112.7040704
+Redmond,95,San Diego,101,95101,827.1086184
+Redmond,95,San Francisco,102,95102,453.0817336
+Redmond,95,San Jose,103,95103,482.5630819
+Redmond,95,San Luis Obispo,104,95104,622.0911641
+Redmond,95,Santa Ana,105,95105,748.5477421
+Redmond,95,Seattle,108,95108,237.0919116
+Reno,96,Anchorage,3,963,1966.22678
+Reno,96,Barrow,7,967,2544.455036
+Reno,96,Bellingham,9,969,651.0686559
+Reno,96,Bethel,10,9610,2303.214194
+Reno,96,Boise,12,9612,337.4287506
+Reno,96,Bozeman,14,9614,615.2621496
+Reno,96,Cordova,23,9623,1828.309152
+Reno,96,Dillingham,27,9627,2153.547939
+Reno,96,Eugene,31,9631,355.1908752
+Reno,96,Fairbanks,33,9633,2074.508964
+Reno,96,Honolulu,42,9642,2566.098232
+Reno,96,Juneau,48,9648,1456.100623
+Reno,96,Ketchikan,52,9652,1220.971353
+Reno,96,King Salmon,53,9653,2084.515219
+Reno,96,Kodiak,54,9654,1918.028572
+Reno,96,Kotzebue,56,9656,2497.156093
+Reno,96,Los Angeles,62,9662,388.030766
+Reno,96,Nome,77,9677,2502.142904
+Reno,96,Palm Springs,83,9683,433.8634122
+Reno,96,Petersburg,85,9685,1333.114785
+Reno,96,Portland,89,9689,438.6100724
+Reno,96,Redmond,95,9695,335.1836251
+Reno,96,San Diego,101,96101,493.2354606
+Reno,96,San Jose,103,96103,189.7417924
+Reno,96,Seattle,108,96108,572.2713479
+Reno,96,Sitka,109,96109,1398.858772
+Reno,96,Spokane,110,96110,574.3139196
+Reno,96,Vancouver,118,96118,691.8937058
+Reno,96,Wrangell,124,96124,1303.125438
+Reno,96,Yakutat,126,96126,1628.829652
+Sacramento,97,Anchorage,3,973,1979.215148
+Sacramento,97,Barrow,7,977,2578.65378
+Sacramento,97,Bellingham,9,979,705.0465101
+Sacramento,97,Bethel,10,9710,2304.140861
+Sacramento,97,Boise,12,9712,442.3680317
+Sacramento,97,Cabo San Lucas,16,9716,1280.732772
+Sacramento,97,Cordova,23,9723,1844.533211
+Sacramento,97,Dillingham,27,9727,2150.865755
+Sacramento,97,Fairbanks,33,9733,2100.627212
+Sacramento,97,Juneau,48,9748,1486.451276
+Sacramento,97,Ketchikan,52,9752,1250.681133
+Sacramento,97,King Salmon,53,9753,2082.03573
+Sacramento,97,Kodiak,54,9754,1916.38123
+Sacramento,97,Kona,55,9755,2437.263099
+Sacramento,97,Kotzebue,56,9756,2516.257522
+Sacramento,97,Maui,63,9763,2405.283156
+Sacramento,97,Nome,77,9777,2512.588113
+Sacramento,97,Orlando,82,9782,2390.027382
+Sacramento,97,Petersburg,85,9785,1363.316965
+Sacramento,97,Pittsburgh,88,9788,2194.917196
+Sacramento,97,Portland,89,9789,483.4040638
+Sacramento,97,Puerto Vallarta,91,9791,1573.966247
+Sacramento,97,San Diego,101,97101,471.9621891
+Sacramento,97,Seattle,108,97108,625.4293162
+Sacramento,97,Sitka,109,97109,1423.611689
+Sacramento,97,Spokane,110,97110,659.8643001
+Sacramento,97,Tucson,116,97116,738.3649948
+Sacramento,97,Wrangell,124,97124,1333.979541
+Sacramento,97,Yakutat,126,97126,1651.851816
+Saint Louis,98,Anchorage,3,983,2925.995692
+Saint Louis,98,Bellingham,9,989,1728.646623
+Saint Louis,98,Fairbanks,33,9833,2888.476942
+Saint Louis,98,Indianapolis,45,9845,236.3057521
+Saint Louis,98,Portland,89,9889,1706.549435
+Saint Louis,98,Puerto Vallarta,91,9891,1533.235517
+Saint Louis,98,Seattle,108,98108,1707.7795
+Salt Lake City,99,Anchorage,3,993,2123.851425
+Salt Lake City,99,Boise,12,9912,298.0065529
+Salt Lake City,99,Fairbanks,33,9933,2182.027437
+Salt Lake City,99,Honolulu,42,9942,2992.294345
+Salt Lake City,99,Juneau,48,9948,1570.005608
+Salt Lake City,99,Kona,55,9955,2968.704715
+Salt Lake City,99,Lihue,60,9960,3041.840554
+Salt Lake City,99,Los Angeles,62,9962,579.3229776
+Salt Lake City,99,Maui,63,9963,2937.312191
+Salt Lake City,99,Portland,89,9989,634.8863886
+Salt Lake City,99,San Diego,101,99101,627.1183839
+Salt Lake City,99,San Francisco,102,99102,599.2587155
+Salt Lake City,99,Seattle,108,99108,700.6476174
+Salt Lake City,99,Spokane,110,99110,550.1710197
+San Antonio,100,Anchorage,3,1003,3191.662237
+San Antonio,100,Portland,89,10089,1717.996779
+San Antonio,100,Seattle,108,100108,1785.737026
+San Diego,101,Anchorage,3,1013,2450.372936
+San Diego,101,Atlanta,4,1014,1887.348324
+San Diego,101,Austin,5,1015,1154.955697
+San Diego,101,Boise,12,10112,754.6881495
+San Diego,101,Boston,13,10113,2578.910826
+San Diego,101,Bozeman,14,10114,952.8935044
+San Diego,101,Cabo San Lucas,16,10116,809.9995046
+San Diego,101,Cancun,17,10117,2022.648645
+San Diego,101,Dallas,24,10124,1180.975952
+San Diego,101,Eugene,31,10131,845.8645015
+San Diego,101,Everett,32,10132,1085.848385
+San Diego,101,Fort Lauderdale,34,10134,2262.004561
+San Diego,101,Fresno,36,10136,318.1461395
+San Diego,101,Honolulu,42,10142,2608.290609
+San Diego,101,Jackson,47,10147,1567.96441
+San Diego,101,Kalispell,49,10149,1080.129363
+San Diego,101,Kona,55,10155,2554.128258
+San Diego,101,Las Vegas,58,10158,264.8975329
+San Diego,101,Lihue,60,10160,2675.284998
+San Diego,101,Maui,63,10163,2539.271002
+San Diego,101,Medford,65,10165,733.7531959
+San Diego,101,Minneapolis,68,10168,1530.780426
+San Diego,101,Missoula,69,10169,991.4961421
+San Diego,101,Monterey,70,10170,1125.163799
+San Diego,101,New York,75,10175,2428.248282
+San Diego,101,Newark,76,10176,2418.524313
+San Diego,101,Orlando,82,10182,2136.555578
+San Diego,101,Portland,89,10189,931.8447323
+San Diego,101,Puerto Vallarta,91,10191,1112.778007
+San Diego,101,Redding,94,10194,614.853353
+San Diego,101,Redmond,95,10195,827.1086184
+San Diego,101,Reno,96,10196,493.2354606
+San Diego,101,Sacramento,97,10197,471.9621891
+San Diego,101,Salt Lake City,99,10199,627.1183839
+San Diego,101,San Francisco,102,101102,458.3455633
+San Diego,101,San Jose,103,101103,414.1179504
+San Diego,101,San Luis Obispo,104,101104,267.3217991
+San Diego,101,Santa Barbara,106,101106,188.5408793
+San Diego,101,Santa Rosa,107,101107,503.6877239
+San Diego,101,Seattle,108,101108,1063.85974
+San Diego,101,Spokane,110,101110,1032.508051
+San Diego,101,Steamboat Springs,111,101111,784.007953
+San Diego,101,Tampa,113,101113,2086.281836
+San Diego,101,Vail,117,101117,768.068881
+San Diego,101,Vancouver,118,101118,1183.662764
+San Diego,101,Washington D.C.,121,101121,2247.770974
+San Francisco,102,Albuquerque,2,1022,896.0111276
+San Francisco,102,Anchorage,3,1023,2004.282804
+San Francisco,102,Austin,5,1025,1499.220504
+San Francisco,102,Baltimore,6,1026,2451.032405
+San Francisco,102,Boise,12,10212,516.7510728
+San Francisco,102,Boston,13,10213,2692.675494
+San Francisco,102,Bozeman,14,10214,799.5799748
+San Francisco,102,Burbank,15,10215,337.5961039
+San Francisco,102,Cabo San Lucas,16,10216,1267.659165
+San Francisco,102,Cancun,17,10217,2408.681288
+San Francisco,102,Chicago,19,10219,1853.596792
+San Francisco,102,Columbus,22,10222,2108.485751
+San Francisco,102,Dallas,24,10224,1480.044051
+San Francisco,102,Denver,25,10225,6299.598723
+San Francisco,102,Everett,32,10232,703.8626594
+San Francisco,102,Fort Lauderdale,34,10234,2581.027879
+San Francisco,102,Honolulu,42,10242,2394.990156
+San Francisco,102,Ixtapa-Zihuatanejo,46,10246,1879.040464
+San Francisco,102,Jackson,47,10247,1852.680292
+San Francisco,102,Kansas City,50,10250,1503.522564
+San Francisco,102,Kona,55,10255,2369.506242
+San Francisco,102,Las Vegas,58,10258,416.3698436
+San Francisco,102,Liberia,59,10259,2954.859193
+San Francisco,102,Lihue,60,10260,2446.798174
+San Francisco,102,Loreto,61,10261,1038.637262
+San Francisco,102,Los Angeles,62,10262,347.4429245
+San Francisco,102,Maui,63,10263,2338.772179
+San Francisco,102,Mazatlan,64,10264,1380.263334
+San Francisco,102,Missoula,69,10269,759.5386236
+San Francisco,102,Nashville,72,10272,1958.803658
+San Francisco,102,New Orleans,74,10274,1921.01999
+San Francisco,102,New York,75,10275,2565.995051
+San Francisco,102,Newark,76,10276,2556.014078
+San Francisco,102,Orlando,82,10282,2436.883394
+San Francisco,102,Palm Springs,83,10283,428.11376
+San Francisco,102,Philadelphia,86,10286,2516.690207
+San Francisco,102,Phoenix,87,10287,652.8865721
+San Francisco,102,Pittsburgh,88,10288,2259.657505
+San Francisco,102,Portland,89,10289,534.8883516
+San Francisco,102,Puerto Vallarta,91,10291,1569.636358
+San Francisco,102,Raleigh,93,10293,2404.389427
+San Francisco,102,Redmond,95,10295,453.0817336
+San Francisco,102,Salt Lake City,99,10299,599.2587155
+San Francisco,102,San Diego,101,102101,458.3455633
+San Francisco,102,San Luis Obispo,104,102104,198.4661998
+San Francisco,102,Santa Ana,105,102105,377.3137741
+San Francisco,102,Seattle,108,102108,679.1185025
+San Francisco,102,Spokane,110,102110,727.7623878
+San Francisco,102,Tampa,113,102113,2396.500089
+San Francisco,102,Vancouver,118,102118,794.1879047
+San Francisco,102,Victoria,119,102119,737.0272558
+San Francisco,102,Washington D.C.,121,102121,2412.452312
+San Jose,103,Anchorage,3,1033,2046.991648
+San Jose,103,Austin,5,1035,1463.07433
+San Jose,103,Boise,12,10312,526.7756936
+San Jose,103,Burbank,15,10315,293.3790093
+San Jose,103,Cabo San Lucas,16,10316,1223.498809
+San Jose,103,Dallas,24,10324,1447.340739
+San Jose,103,Eugene,31,10331,470.5214899
+San Jose,103,Everett,32,10332,736.6674062
+San Jose,103,Guadalajara,38,10338,1598.067257
+San Jose,103,Honolulu,42,10342,2413.466368
+San Jose,103,Jackson,47,10347,1821.941698
+San Jose,103,Kona,55,10355,2385.004371
+San Jose,103,Las Vegas,58,10358,380.6186147
+San Jose,103,Lihue,60,10360,2466.907558
+San Jose,103,Los Angeles,62,10362,303.2192645
+San Jose,103,Maui,63,10363,2355.850943
+San Jose,103,Missoula,69,10369,772.8147342
+San Jose,103,New York,75,10375,2549.405495
+San Jose,103,Newark,76,10376,2539.433523
+San Jose,103,Palm Springs,83,10383,384.5776613
+San Jose,103,Portland,89,10389,568.9161319
+San Jose,103,Puerto Vallarta,91,10391,1525.478875
+San Jose,103,Redmond,95,10395,482.5630819
+San Jose,103,Reno,96,10396,189.7417924
+San Jose,103,San Diego,101,103101,414.1179504
+San Jose,103,Santa Ana,105,103105,333.0941118
+San Jose,103,Seattle,108,103108,712.1887006
+San Jose,103,Spokane,110,103110,750.0652867
+San Jose,103,Tucson,116,103116,713.009331
+San Jose,103,Vancouver,118,103118,828.4543354
+San Jose,103,Seattle,108,103108,712.1887006
+San Luis Obispo,104,Anchorage,3,1043,2202.556919
+San Luis Obispo,104,Boise,12,10412,622.4587078
+San Luis Obispo,104,Boston,13,10413,2676.373634
+San Luis Obispo,104,Bozeman,14,10414,877.2942297
+San Luis Obispo,104,Chicago,19,10419,1828.308136
+San Luis Obispo,104,Dallas,24,10424,1373.457986
+San Luis Obispo,104,Eugene,31,10431,619.9426129
+San Luis Obispo,104,Honolulu,42,10442,2441.9418
+San Luis Obispo,104,Kodiak,54,10454,2130.000844
+San Luis Obispo,104,Las Vegas,58,10458,315.6225538
+San Luis Obispo,104,Medford,65,10465,501.7569812
+San Luis Obispo,104,Philadelphia,86,10486,2484.185365
+San Luis Obispo,104,Portland,89,10489,715.4406802
+San Luis Obispo,104,Redmond,95,10495,622.0911641
+San Luis Obispo,104,San Diego,101,104101,267.3217991
+San Luis Obispo,104,San Francisco,102,104102,198.4661998
+San Luis Obispo,104,Seattle,108,104108,856.3859575
+San Luis Obispo,104,Spokane,110,104110,871.6661495
+Santa Ana,105,Albuquerque,2,1052,648.6212132
+Santa Ana,105,Anchorage,3,1053,2368.375506
+Santa Ana,105,Bellingham,9,1059,1063.974252
+Santa Ana,105,Boise,12,10512,687.8476459
+Santa Ana,105,Bozeman,14,10514,900.3796253
+Santa Ana,105,Cabo San Lucas,16,10516,891.9052891
+Santa Ana,105,Eugene,31,10531,765.0079939
+Santa Ana,105,Everett,32,10532,1007.85642
+Santa Ana,105,Medford,65,10565,652.2281738
+Santa Ana,105,Pasco,84,10584,865.9342369
+Santa Ana,105,Portland,89,10589,852.1454069
+Santa Ana,105,Puerto Vallarta,91,10591,1192.634904
+Santa Ana,105,Redmond,95,10595,748.5477421
+Santa Ana,105,San Francisco,102,105102,377.3137741
+Santa Ana,105,San Jose,103,105103,333.0941118
+Santa Ana,105,Santa Rosa,107,105107,422.1424381
+Santa Ana,105,Seattle,108,105108,985.5586622
+Santa Ana,105,Spokane,110,105110,961.835436
+Santa Ana,105,Tucson,116,105116,416.4520857
+Santa Ana,105,Vancouver,118,105118,1105.305351
+Santa Barbara,106,Portland,89,10689,781.9473524
+Santa Barbara,106,San Diego,101,106101,188.5408793
+Santa Barbara,106,Seattle,108,106108,920.7106754
+Santa Rosa,107,Anchorage,3,1073,1955.910063
+Santa Rosa,107,Barrow,7,1077,2567.122202
+Santa Rosa,107,Bethel,10,10710,2273.78988
+Santa Rosa,107,Burbank,15,10715,382.4391643
+Santa Rosa,107,Cordova,23,10723,1823.287243
+Santa Rosa,107,Dillingham,27,10727,2118.771604
+Santa Rosa,107,Fairbanks,33,10733,2084.761043
+Santa Rosa,107,Juneau,48,10748,1474.321883
+Santa Rosa,107,Ketchikan,52,10752,1238.916638
+Santa Rosa,107,King Salmon,53,10753,2050.132849
+Santa Rosa,107,Kodiak,54,10754,1885.146077
+Santa Rosa,107,Kotzebue,56,10756,2495.786048
+Santa Rosa,107,Las Vegas,58,10758,444.1427347
+Santa Rosa,107,Los Angeles,62,10762,392.3892282
+Santa Rosa,107,Nome,77,10777,2487.215543
+Santa Rosa,107,Petersburg,85,10785,1351.459426
+Santa Rosa,107,Portland,89,10789,488.3678518
+Santa Rosa,107,San Diego,101,107101,503.6877239
+Santa Rosa,107,Santa Ana,105,107105,422.1424381
+Santa Rosa,107,Seattle,108,107108,633.0137478
+Santa Rosa,107,Sitka,109,107109,1408.295588
+Santa Rosa,107,Wrangell,124,107124,1322.614099
+Santa Rosa,107,Yakutat,126,107126,1634.934322
+Seattle,108,Adak,1,1081,2385.719385
+Seattle,108,Albuquerque,2,1082,1182.492306
+Seattle,108,Anchorage,3,1083,1434.359784
+Seattle,108,Atlanta,4,1084,2177.916864
+Seattle,108,Austin,5,1085,1768.207459
+Seattle,108,Baltimore,6,1086,2328.251737
+Seattle,108,Belize City,8,1088,2835.630039
+Seattle,108,Bellingham,9,1089,79.62116545
+Seattle,108,Bethel,10,10810,1796.6073
+Seattle,108,Billings,11,10811,664.7652254
+Seattle,108,Boise,12,10812,403.3381667
+Seattle,108,Boston,13,10813,2485.598951
+Seattle,108,Bozeman,14,10814,551.1014438
+Seattle,108,Burbank,15,10815,950.5820147
+Seattle,108,Cabo San Lucas,16,10816,1840.504473
+Seattle,108,Calgary,128,108128,441.3591745
+Seattle,108,Cancun,17,10817,2686.512826
+Seattle,108,Charleston,18,10818,2423.016543
+Seattle,108,Chicago,19,10819,1732.813893
+Seattle,108,Cincinnati,20,10820,1966.888407
+Seattle,108,Cleveland,21,10821,2022.244067
+Seattle,108,Columbus,22,10822,2008.285937
+Seattle,108,Cordova,23,10823,1291.152226
+Seattle,108,Dallas,24,10824,1679.177692
+Seattle,108,Denver,25,10825,5740.785804
+Seattle,108,Detroit,26,10826,1933.122062
+Seattle,108,Dillingham,27,10827,1659.212387
+Seattle,108,Edmonton,29,10829,563.0570643
+Seattle,108,El Paso,30,10830,1375.806743
+Seattle,108,Eugene,31,10831,248.2425321
+Seattle,108,Fairbanks,33,10833,1517.786466
+Seattle,108,Fort Lauderdale,34,10834,2715.7164
+Seattle,108,Fort Myers,35,10835,2617.700015
+Seattle,108,Fresno,36,10836,759.0103049
+Seattle,108,Great Falls,37,10837,514.6796358
+Seattle,108,Guadalajara,38,10838,2141.257554
+Seattle,108,Helena,41,10841,488.9770367
+Seattle,108,Honolulu,42,10842,2679.497117
+Seattle,108,Houston,43,10843,1888.645699
+Seattle,108,Idaho Falls,44,10844,573.065307
+Seattle,108,Indianapolis,45,10845,1867.703335
+Seattle,108,Jackson,47,10847,1982.988267
+Seattle,108,Juneau,48,10848,897.6701226
+Seattle,108,Kalispell,49,10849,373.3578337
+Seattle,108,Kansas City,50,10850,1504.444959
+Seattle,108,Kelowna,51,10851,204.9200932
+Seattle,108,Ketchikan,52,10852,666.965712
+Seattle,108,King Salmon,53,10853,1590.794083
+Seattle,108,Kodiak,54,10854,1425.155543
+Seattle,108,Kona,55,10855,2696.612905
+Seattle,108,Kotzebue,56,10856,1949.22146
+Seattle,108,Las Vegas,58,10858,871.497813
+Seattle,108,Liberia,59,10859,3330.254326
+Seattle,108,Lihue,60,10860,2705.172114
+Seattle,108,Los Angeles,62,10862,960.2191224
+Seattle,108,Maui,63,10863,2645.238117
+Seattle,108,Mazatlan,64,10864,1898.728905
+Seattle,108,Medford,65,10865,365.3387955
+Seattle,108,Miami,66,10866,2729.486266
+Seattle,108,Milwaukee,67,10867,1685.151064
+Seattle,108,Minneapolis,68,10868,1390.986135
+Seattle,108,Missoula,69,10869,393.523334
+Seattle,108,Monterey,70,10870,1931.932989
+Seattle,108,Monterrey,71,10871,1931.932989
+Seattle,108,Nashville,72,10872,1970.837831
+Seattle,108,Nassau,73,10873,2891.663271
+Seattle,108,New Orleans,74,10874,2097.351836
+Seattle,108,New York,75,10875,2402.647146
+Seattle,108,Newark,76,10876,2392.945755
+Seattle,108,Nome,77,10877,1970.70909
+Seattle,108,Oakland,78,10878,677.5632213
+Seattle,108,Oklahoma City,79,10879,1521.203757
+Seattle,108,Omaha,80,10880,1366.280799
+Seattle,108,Ontario,81,10881,967.9456377
+Seattle,108,Orlando,82,10882,2546.286792
+Seattle,108,Palm Springs,83,10883,998.8379502
+Seattle,108,Paris,129,108129,4996.77142
+Seattle,108,Pasco,84,10884,179.0553976
+Seattle,108,Petersburg,85,10885,776.3906475
+Seattle,108,Philadelphia,86,10886,2373.269029
+Seattle,108,Phoenix,87,10887,1114.500341
+Seattle,108,Pittsburgh,88,10888,2132.453529
+Seattle,108,Portland,89,10889,145.2441627
+Seattle,108,Puerto Vallarta,91,10891,2095.459776
+Seattle,108,Pullman,92,10892,249.9605357
+Seattle,108,Raleigh,93,10893,2361.50171
+Seattle,108,Redding,94,10894,485.7006185
+Seattle,108,Redmond,95,10895,237.0919116
+Seattle,108,Reno,96,10896,572.2713479
+Seattle,108,Sacramento,97,10897,625.4293162
+Seattle,108,Saint Louis,98,10898,1707.7795
+Seattle,108,Salt Lake City,99,10899,700.6476174
+Seattle,108,San Antonio,100,108100,1785.737026
+Seattle,108,San Diego,101,108101,1063.85974
+Seattle,108,San Francisco,102,108102,679.1185025
+Seattle,108,San Jose,103,108103,712.1887006
+Seattle,108,San Jose,103,108103,712.1887006
+Seattle,108,San Luis Obispo,104,108104,856.3859575
+Seattle,108,Santa Ana,105,108105,985.5586622
+Seattle,108,Santa Barbara,106,108106,920.7106754
+Seattle,108,Santa Rosa,107,108107,633.0137478
+Seattle,108,Sitka,109,108109,850.8307405
+Seattle,108,Spokane,110,108110,228.543576
+Seattle,108,Steamboat Springs,111,108111,911.6415498
+Seattle,108,Sun Valley,112,108112,471.3196104
+Seattle,108,Tampa,113,108113,2526.202166
+Seattle,108,Tokyo,114,108114,4750.635256
+Seattle,108,Toronto,115,108115,2065.536033
+Seattle,108,Tucson,116,108116,1219.817557
+Seattle,108,Vail,117,108117,967.195707
+Seattle,108,Vancouver,118,108118,119.8075392
+Seattle,108,Victoria,119,108119,73.89763114
+Seattle,108,Walla Walla,120,108120,217.02782
+Seattle,108,Washington D.C.,121,108121,2300.933446
+Seattle,108,Wenatchee,122,108122,94.49573295
+Seattle,108,Wichita,123,108123,1434.26882
+Seattle,108,Wrangell,124,108124,745.7723713
+Seattle,108,Yakima,125,108125,110.3409452
+Seattle,108,Yakutat,126,108126,1080.693769
+Sitka,109,Anchorage,3,1093,588.0748479
+Sitka,109,Bozeman,14,10914,1299.070936
+Sitka,109,Denver,25,10925,4890.014531
+Sitka,109,Juneau,48,10948,94.69574727
+Sitka,109,Ketchikan,52,10952,185.3910035
+Sitka,109,Ontario,81,10981,1794.302902
+Sitka,109,Redding,94,10994,1277.790079
+Sitka,109,Reno,96,10996,1398.858772
+Sitka,109,Sacramento,97,10997,1423.611689
+Sitka,109,Santa Rosa,107,109107,1408.295588
+Sitka,109,Seattle,108,109108,850.8307405
+Spokane,110,Anchorage,3,1103,1579.799755
+Spokane,110,Boise,12,11012,285.1909327
+Spokane,110,Boston,13,11013,2259.710262
+Spokane,110,Burbank,15,11015,932.3536741
+Spokane,110,Cabo San Lucas,16,11016,1760.886499
+Spokane,110,Chicago,19,11019,1504.637954
+Spokane,110,Columbus,22,11022,1780.156233
+Spokane,110,Dallas,24,11024,1487.721205
+Spokane,110,Honolulu,42,11042,2883.843153
+Spokane,110,Juneau,48,11048,1021.477678
+Spokane,110,Kona,55,11055,2893.920847
+Spokane,110,Las Vegas,58,11058,802.255511
+Spokane,110,Lihue,60,11060,2913.485895
+Spokane,110,Los Angeles,62,11062,940.9869926
+Spokane,110,Maui,63,11063,2845.886372
+Spokane,110,New York,75,11075,2174.740078
+Spokane,110,Newark,76,11076,2165.020266
+Spokane,110,Oakland,78,11078,723.413774
+Spokane,110,Ontario,81,11081,939.8187989
+Spokane,110,Orlando,82,11082,2331.167278
+Spokane,110,Palm Springs,83,11083,956.9244639
+Spokane,110,Phoenix,87,11087,1020.483936
+Spokane,110,Pittsburgh,88,11088,1903.912495
+Spokane,110,Portland,89,11089,289.4944614
+Spokane,110,Sacramento,97,11097,659.8643001
+Spokane,110,Salt Lake City,99,11099,550.1710197
+Spokane,110,San Diego,101,110101,1032.508051
+Spokane,110,San Francisco,102,110102,727.7623878
+Spokane,110,San Jose,103,110103,750.0652867
+Spokane,110,San Luis Obispo,104,110104,871.6661495
+Spokane,110,Santa Ana,105,110105,961.835436
+Spokane,110,Seattle,108,110108,228.543576
+Spokane,110,Washington D.C.,121,110121,2072.422883
+Steamboat Springs,111,San Diego,101,111101,784.007953
+Steamboat Springs,111,Seattle,108,111108,911.6415498
+Sun Valley,112,Seattle,108,112108,471.3196104
+Tampa,113,Anchorage,3,1133,3798.244957
+Tampa,113,Los Angeles,62,11362,2149.664996
+Tampa,113,Portland,89,11389,2500.335652
+Tampa,113,San Diego,101,113101,2086.281836
+Tampa,113,San Francisco,102,113102,2396.500089
+Tampa,113,Seattle,108,113108,2526.202166
+Tokyo,114,Seattle,108,114108,4750.635256
+Toronto,115,Seattle,108,115108,2065.536033
+Tucson,116,Everett,32,11632,1237.182078
+Tucson,116,Portland,89,11689,1112.148755
+Tucson,116,Sacramento,97,11697,738.3649948
+Tucson,116,San Jose,103,116103,713.009331
+Tucson,116,Santa Ana,105,116105,416.4520857
+Tucson,116,Seattle,108,116108,1219.817557
+Vail,117,San Diego,101,117101,768.068881
+Vail,117,Seattle,108,117108,967.195707
+Vancouver,118,Dallas,24,11824,1766.428515
+Vancouver,118,Los Angeles,62,11862,1079.892058
+Vancouver,118,New York,75,11875,2426.622945
+Vancouver,118,Ontario,81,11881,1087.745158
+Vancouver,118,Philadelphia,86,11886,2401.147816
+Vancouver,118,Phoenix,87,11887,1230.497545
+Vancouver,118,San Diego,101,118101,1183.662764
+Vancouver,118,San Francisco,102,118102,794.1879047
+Vancouver,118,Santa Ana,105,118105,1105.305351
+Victoria,119,Houston,43,11943,1958.62781
+Walla Walla,120,Seattle,108,120108,217.02782
+Washington D.C.,121,Anchorage,3,1213,3344.107935
+Washington D.C.,121,Los Angeles,62,12162,2271.857558
+Washington D.C.,121,Portland,89,12189,2325.51436
+Washington D.C.,121,San Diego,101,121101,2247.770974
+Washington D.C.,121,San Francisco,102,121102,2412.452312
+Washington D.C.,121,Seattle,108,121108,2300.933446
+Washington D.C.,121,Spokane,110,121110,2072.422883
+Wenatchee,122,Honolulu,42,12242,2755.322697
+Wenatchee,122,Kona,55,12255,2768.565963
+Wenatchee,122,Lihue,60,12260,2783.259876
+Wenatchee,122,Maui,63,12263,2719.001202
+Wenatchee,122,Seattle,108,122108,94.49573295
+Wichita,123,Seattle,108,123108,1434.26882
+Wrangell,124,Bozeman,14,12414,1180.922916
+Wrangell,124,Ketchikan,52,12452,83.88041836
+Wrangell,124,Ontario,81,12481,1699.978179
+Wrangell,124,Petersburg,85,12485,30.73985273
+Wrangell,124,Redding,94,12494,1187.899819
+Wrangell,124,Reno,96,12496,1303.125438
+Wrangell,124,Sacramento,97,12497,1333.979541
+Wrangell,124,Santa Rosa,107,124107,1322.614099
+Wrangell,124,Seattle,108,124108,745.7723713
+Yakima,125,Honolulu,42,12542,2721.585887
+Yakima,125,Kona,55,12555,2731.86056
+Yakima,125,Lihue,60,12560,2751.444065
+Yakima,125,Maui,63,12563,2683.650817
+Yakima,125,Seattle,108,125108,110.3409452
+Yakutat,126,Bozeman,14,12614,1514.553333
+Yakutat,126,Cordova,23,12623,222.2007617
+Yakutat,126,Juneau,48,12648,197.9215918
+Yakutat,126,Ontario,81,12681,2023.825693
+Yakutat,126,Redding,94,12694,1506.255166
+Yakutat,126,Reno,96,12696,1628.829652
+Yakutat,126,Sacramento,97,12697,1651.851816
+Yakutat,126,Santa Rosa,107,126107,1634.934322
+Yakutat,126,Seattle,108,126108,1080.693769
